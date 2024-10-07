@@ -1,0 +1,16 @@
+Создание нового локального репозитория:
+
+git init
+
+Создание файла test.txt и добавление в него текста “Hello DevOps”:
+
+echo "Hello DevOps" > test.txt
+
+Коммит изменений с сообщением “Initial commit”:
+
+git add test.txt
+git commit -m "Initial commit"
+
+Показ истории коммитов:
+
+git log
